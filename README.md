@@ -1,4 +1,4 @@
-# 🏥 Parkinson's Disease Detection System
+# 🏥 NEUROVOX - Parkinson's Disease Detection System
 
 A professional-grade AI-powered voice analysis platform for detecting Parkinson's Disease and classifying disease progression stages using advanced machine learning and signal processing techniques.
 
